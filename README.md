@@ -4,7 +4,7 @@
 
 Dedicated Software Engineer with a passion for crafting innovative solutions. Hailing from Tunisia, I have honed my skills in the dynamic world of software development while studying at ESPRIT Tunisia. Committed to delivering high-quality code and driving technological advancements, I bring a strong foundation in programming and a thirst for knowledge to every project.
 
-Skills: Angular / Spring Boot / JS / HTML / CSS / Devops / Flutter
+Skills: Angular / Spring Boot / React / Node js /JS / HTML / CSS / Devops / Flutter
 
 - 🔭 I’m currently working on Freelance 
 
